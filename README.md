@@ -1,11 +1,10 @@
 # Kage Bunshin - 影分身の術
 <img src="https://static.wikia.nocookie.net/naruto/images/7/75/Tumblr_m6a8ayWCtK1rput01o2_500.jpg/revision/latest?cb=20200322103745&path-prefix=vi" width="300px">
+
 This tool is inspired by **Naruto's most iconic jutsu** the Shadow Clone Technique (影 = *Kage*, 分身 = *Bunshin*).
 
 In the anime, Naruto creates **thousands of clones** that act simultaneously,
-each one real and capable, overwhelming any target at the exact same moment.
-
-**Kage Bunshin** does the same thing, but for HTTP requests.
+each one real and capable, overwhelming any target at the exact same moment. **Kage Bunshin** does the same thing, but for HTTP requests.
 
 ---
 
